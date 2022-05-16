@@ -24,7 +24,7 @@ The [newsapi](https://newsapi.org/) is used here to pull the latest news article
 The descriptive statistics to answer the following questions:
 
 1. Which coin had the highest mean positive score?
-    - **Based on the analysis, Ethereum has the highest Mean Positive score of 0.077630**<br><br>
+    - **Based on the analysis, Ethereum has the highest Mean Positive score of 0.07799**<br><br>
 
 2. Which coin had the highest negative score?
    - **Based on the analysis, Ethereum has the highest compound score of 0.893400**<br><br>
