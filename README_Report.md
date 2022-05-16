@@ -88,6 +88,7 @@ In this section, I have built a named entity recognition model for both coins an
 
 ![Ethereum_NER.html](Images/Ethereum_NER.html)
 
-```{r, out.width=720, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
-knitr::include_url("https://ntu.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=894e2520-46b3-4c7e-9666-acbc00eee050&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;start=0&amp;interactivity=all", height = 405)
-```
+[Bitcoin_NER](https://nithy29.github.io/Tales_from_the_Crypto/Images/Bitcoin_NER.html)
+
+[Ethereum_NER.html](https://nithy29.github.io/Tales_from_the_Crypto/Images/Ethereum_NER.html)
+
