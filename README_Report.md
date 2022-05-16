@@ -84,10 +84,6 @@ The following word clouds have been generated to summarize the news for each coi
 
 In this section, I have built a named entity recognition model for both coins and visualized the tags using SpaCy.
 
-![Bitcoin_NER.html](Images/Bitcoin_NER.html)
-
-![Ethereum_NER.html](Images/Ethereum_NER.html)
-
 [Bitcoin_NER](https://nithy29.github.io/Tales_from_the_Crypto/Images/Bitcoin_NER.html)
 
 [Ethereum_NER.html](https://nithy29.github.io/Tales_from_the_Crypto/Images/Ethereum_NER.html)
